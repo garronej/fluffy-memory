@@ -6,7 +6,7 @@
         "type": "git",
         "url": "git://github.com/garronej/fluffy-memory.git"
     },
-    "main": "dist/index.js",
+    "main": "dist/index.ts",
     "types": "dist/index.d.ts",
     "scripts": {
         "test": "echo DODO",
