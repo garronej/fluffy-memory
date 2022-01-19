@@ -29,6 +29,7 @@
 ```bash
 $ npm install --save fluffy-memory
 ```
+xxx
 
 ```typescript
 import { myFunction, myObject } from "fluffy-memory";
